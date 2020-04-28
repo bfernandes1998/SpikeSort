@@ -1,6 +1,7 @@
 # SpikeSort
 Final Project for 532 
 
-CONTRIBUTORS:
+# Contributors
 Michele Pancani
+
 Tommy Yee
